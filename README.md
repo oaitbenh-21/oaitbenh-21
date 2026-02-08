@@ -35,18 +35,6 @@ I enjoy understanding how things work under the hood and building reliable, prod
 
 ---
 
-## 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oaitbenh-21&show_icons=true&hide_title=true&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/oaitbenh-21/oaitbenh-21/blob/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
 ## 📫 Contact
 
 - **Email:** 0xmrrandom@gmail.com  
