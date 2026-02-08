@@ -80,9 +80,6 @@
 <h2 align="left">📫 Let's Connect</h2>
 
 ###
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-
 - **Email:** your.email@example.com  
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
 
