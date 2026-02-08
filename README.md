@@ -143,8 +143,6 @@
 
 ###
 
-
-<br clear="both">
 <h2 align="center">🚧 Current Focus</h2>
 
 ###
@@ -155,9 +153,6 @@
 
 ---
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
 <h2 align="center">📫 Let's Connect</h2>
 
 ###
@@ -167,4 +162,6 @@
 ⭐ Interested in my work? Star a repo or open an issue—I'm always happy to discuss implementation details!
 
 
-###
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
