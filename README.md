@@ -1,161 +1,53 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=133&section=header&reversal=false&text=I'm%20a%20Full-Stack%20Developer%20Building%20End-to-End%20Systems&fontSize=25&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false"  />
-</div>
+# 👋 Hi, I'm Omar
 
-###
+Systems-oriented full-stack developer with a strong interest in **Linux, networking, and low-level programming**.  
+I enjoy understanding how things work under the hood and building reliable, production-ready systems.
 
-<div align="center">
-  
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xmrrandom.png" alt="Your Image Badge" />
-
-</div>
-
-<div align="center">
-
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=oaitbenh-21.oaitbenh-21&"  />
-  
-</div>
-
-###
-
-<h4 align="left">I build scalable web applications and low-level systems tools across the stack—from hardware fundamentals to production-ready services. My work bridges high-performance backends (Go, Rust), modern frontends (Next.js, Angular), and systems programming.</h4>
-
-###
-
-<h4 align="left">I focus on clean architecture, real-world problem solving, and understanding how things work under the hood.</h4>
-
-###
-
-<br clear="both">
-
-  
-###
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-
-###
-
-**Languages:** JavaScript · Go · Rust · Java · Shell  
-**Frontend:** Next.js · Angular · Vanilla JS  
-**Backend:** Go · Spring Boot · GraphQL · REST APIs  
-**Systems:** Rust · Linux · Docker · Networking  
-**Hardware:** Digital logic (ALU, CPU design via NandGame)
-
-###
-
-<br clear="both">
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-</div>
-
-###
-
-
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-###
-
-### 🦀 **Rust — Systems & Performance**
-- **[Corewar]([link](https://github.com/brahem01/corewar))** – VM and assembler for a programming game
-- **[0-Shell]([link](https://github.com/BenaliOssama/0-shell))** – POSIX-compliant shell with piping and redirects
-- **[Wget]([link](https://github.com/BenaliOssama/wget))** – HTTP/HTTPS client with recursive downloads
-
-### 🐹 **Go — Backend Services**
-- **[Social Network API]([link](https://github.com/BniDrar/social-network))** – REST backend with auth, WebSockets, SQLite
-- **[Net-Cat]([link](https://github.com/oaitbenh/net-cat))** – Concurrent TCP chat server with connection handling
-- **[Lem-In]([link](https://github.com/404))** – Pathfinding optimizer for graph traversal problems
-
-### 🌐 **JavaScript — Full-Stack Web**
-- **[Social Network (Next.js)]([link](https://github.com/BniDrar/social-network))** – Real-time frontend with server-side rendering
-- **[Real-Time Forum](/404)** – Live chat with WebSocket integration
-- **[Bomberman DOM]([link](https://github.com/oaitbenh-21/bomberman-dom)** – Browser-based multiplayer game
-
-### ☕ **Java — Enterprise Full-Stack**
-- **[01Blog]([link](https://github.com/oaitbenh-21/01blog))** – Spring Boot backend + Angular frontend blogging platform
-
-### 🖥️ **Sysadmin & Networking**
-- **Linux Labs** – User management, firewall config, SSH hardening
-- **VirtualBox Labs** – VM provisioning, networking, snapshot management
-- **Network Security** – Port scanning, remote access, firewall rules, port forwarding
-
-### 🧠 **Hardware Fundamentals**
-- **[NandGame]([link](https://github.com/oaitbenh-21/nandgame))** – Built CPU from logic gates (ALU, registers, instruction decoder)
+🎯 **PWK (OSCP) course completed** — *coursework only, certification not obtained*.
 
 ---
 
-###
+## 🛠 Tech Stack
 
-<h2 align="center">🚧 Current Focus</h2>
+**Languages:** Go · Rust · Java · JavaScript · Shell  
+**Backend:** Go · Spring Boot · REST · GraphQL  
+**Frontend:** Next.js · Angular · React  
+**Systems:** Linux · Docker · Networking · SSH  
+**Foundations:** OS internals · CPU & ALU design (NandGame)
 
-###
-
-
-- **LocalServer (Rust + Java)** – Learning server implementation patterns across languages
-- **Zappy (Rust)** – Networked multiplayer game server
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+</p>
 
 ---
 
-<h2 align="center">📫 Let's Connect</h2>
+## 🚀 Selected Projects
 
-###
+- **Corewar VM (Rust)** – Virtual machine for the Corewar programming game  
+- **Corewar Disassembler (Rust)** – Bytecode analysis and reverse tooling  
+- **0-Shell (Rust)** – POSIX-like shell with pipes and redirects  
+- **Social Network (Go / Next.js)** – Auth, WebSockets, REST API  
+- **Net-Cat (Go)** – Concurrent TCP chat server  
+- **NandGame** – CPU built from logic gates
+
+---
+
+## 📊 Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oaitbenh-21&show_icons=true&hide_title=true&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/oaitbenh-21/oaitbenh-21/blob/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 📫 Contact
+
 - **Email:** 0xmrrandom@gmail.com  
-- **LinkedIn:** [oaitbenh](https://www.linkedin.com/in/omar-ait-benhammou-77332a354/)
-
-⭐ Interested in my work? Star a repo or open an issue—I'm always happy to discuss implementation details!
-
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+- **LinkedIn:** https://www.linkedin.com/in/omar-ait-benhammou-77332a354
