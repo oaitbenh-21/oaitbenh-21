@@ -26,6 +26,16 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 
+###
+
+**Languages:** JavaScript · Go · Rust · Java · Shell  
+**Frontend:** Next.js · Angular · Vanilla JS  
+**Backend:** Go · Spring Boot · GraphQL · REST APIs  
+**Systems:** Rust · Linux · Docker · Networking  
+**Hardware:** Digital logic (ALU, CPU design via NandGame)
+
+###
+
 <br clear="both">
 
 
@@ -85,15 +95,6 @@
 ###
 
 
-###
-
-**Languages:** JavaScript · Go · Rust · Java · Shell  
-**Frontend:** Next.js · Angular · Vanilla JS  
-**Backend:** Go · Spring Boot · GraphQL · REST APIs  
-**Systems:** Rust · Linux · Docker · Networking  
-**Hardware:** Digital logic (ALU, CPU design via NandGame)
-
-###
 
 <h2 align="center">🚀 Featured Projects</h2>
 
