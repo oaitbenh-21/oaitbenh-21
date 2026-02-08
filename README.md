@@ -15,6 +15,13 @@
 <br clear="both">
 
 <div align="center">
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oaitbenh-21/oaitbenh-21/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oaitbenh-21/oaitbenh-21/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oaitbenh-21/oaitbenh-21/output/snake.svg">
+</picture>
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oaitbenh-21?cardType=github&fontFamily=42dot%20Sans&preferLogin=false&Border=A1C1DD&Ring=A1C1DD&Title=A1C1DD&Text=A1C1DD&borderRadius=50)](https://git.io/awesome-stats-card)
   
