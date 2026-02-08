@@ -114,30 +114,30 @@
 ###
 
 ### 🦀 **Rust — Systems & Performance**
-- **[Corewar](link)** – VM and assembler for a programming game
-- **[0-Shell](link)** – POSIX-compliant shell with piping and redirects
-- **[Wget Clone](link)** – HTTP/HTTPS client with recursive downloads
+- **[Corewar]([link](https://github.com/brahem01/corewar))** – VM and assembler for a programming game
+- **[0-Shell]([link](https://github.com/BenaliOssama/0-shell))** – POSIX-compliant shell with piping and redirects
+- **[Wget]([link](https://github.com/BenaliOssama/wget))** – HTTP/HTTPS client with recursive downloads
 
 ### 🐹 **Go — Backend Services**
-- **[Social Network API](link)** – REST backend with auth, WebSockets, SQLite
-- **[Net-Cat](link)** – Concurrent TCP chat server with connection handling
-- **[Lem-In](link)** – Pathfinding optimizer for graph traversal problems
+- **[Social Network API]([link](https://github.com/BniDrar/social-network))** – REST backend with auth, WebSockets, SQLite
+- **[Net-Cat]([link](https://github.com/oaitbenh/net-cat))** – Concurrent TCP chat server with connection handling
+- **[Lem-In]([link](https://github.com/404))** – Pathfinding optimizer for graph traversal problems
 
 ### 🌐 **JavaScript — Full-Stack Web**
-- **[Social Network (Next.js)](link)** – Real-time frontend with server-side rendering
-- **[Real-Time Forum](link)** – Live chat with WebSocket integration
-- **[Bomberman DOM](link)** – Browser-based multiplayer game
+- **[Social Network (Next.js)]([link](https://github.com/BniDrar/social-network))** – Real-time frontend with server-side rendering
+- **[Real-Time Forum](/404)** – Live chat with WebSocket integration
+- **[Bomberman DOM]([link](https://github.com/oaitbenh-21/bomberman-dom)** – Browser-based multiplayer game
 
 ### ☕ **Java — Enterprise Full-Stack**
-- **[01Blog](link)** – Spring Boot backend + Angular frontend blogging platform
+- **[01Blog]([link](https://github.com/oaitbenh-21/01blog))** – Spring Boot backend + Angular frontend blogging platform
 
 ### 🖥️ **Sysadmin & Networking**
-- **Linux Exercises** – User management, firewall config, SSH hardening
+- **Linux Labs** – User management, firewall config, SSH hardening
 - **VirtualBox Labs** – VM provisioning, networking, snapshot management
-- **Network Security** – Port scanning, remote access, firewall rules
+- **Network Security** – Port scanning, remote access, firewall rules, port forwarding
 
 ### 🧠 **Hardware Fundamentals**
-- **[NandGame](link)** – Built CPU from logic gates (ALU, registers, instruction decoder)
+- **[NandGame]([link](https://github.com/oaitbenh-21/nandgame))** – Built CPU from logic gates (ALU, registers, instruction decoder)
 
 ---
 
