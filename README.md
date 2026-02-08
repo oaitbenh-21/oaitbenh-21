@@ -14,8 +14,10 @@
 
 <br clear="both">
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oaitbenh-21?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
+<div align="center">
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oaitbenh-21?cardType=github&fontFamily=42dot%20Sans&preferLogin=false&Border=A1C1DD&Ring=A1C1DD&Title=A1C1DD&Text=A1C1DD&borderRadius=50)](https://git.io/awesome-stats-card)
+</div>
+  
 ###
 
 <h2 align="center">🛠️ Tech Stack</h2>
