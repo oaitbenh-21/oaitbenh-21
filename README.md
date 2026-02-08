@@ -77,17 +77,6 @@
 
 ---
 
-<h2 align="center"> 📈 GitHub Stats </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-anasskms-projects.vercel.app/api?username=lfarssi&show_icons=true&theme=neon&rank_icon=github" alt="Mohamed's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats-anasskms-projects.vercel.app/api/top-langs/?username=lfarssi&layout=compact&theme=neon" alt="Top Languages" />
-  <br>
-  <img src="https://github-streak-stats-tan.vercel.app?user=lfarssi&theme=neon" alt="GitHub Streak" />
-</p>
-
-
 <h2 align="center">📫 Let's Connect</h2>
 
 ###
