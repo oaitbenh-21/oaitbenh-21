@@ -77,12 +77,22 @@
 
 ---
 
+<h2 align="center"> 📈 GitHub Stats </h2>
 
-<h2 align="left">📫 Let's Connect</h2>
+<p align="center">
+  <img src="https://github-readme-stats-anasskms-projects.vercel.app/api?username=lfarssi&show_icons=true&theme=neon&rank_icon=github" alt="Mohamed's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats-anasskms-projects.vercel.app/api/top-langs/?username=lfarssi&layout=compact&theme=neon" alt="Top Languages" />
+  <br>
+  <img src="https://github-streak-stats-tan.vercel.app?user=lfarssi&theme=neon" alt="GitHub Streak" />
+</p>
+
+
+<h2 align="center">📫 Let's Connect</h2>
 
 ###
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
+- **Email:** 0xmrrandom@gmail.com  
+- **LinkedIn:** [oaitbenh](https://www.linkedin.com/in/omar-ait-benhammou-77332a354/)
 
 ⭐ Interested in my work? Star a repo or open an issue—I'm always happy to discuss implementation details!
 
