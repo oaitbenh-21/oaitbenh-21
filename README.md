@@ -14,10 +14,7 @@
 
 <br clear="both">
 
-## My Contribution snake
-![Contribution snake example](https://github.com/oaitbenh-21/oaitbenh-21/blob/output/github-contribution-grid-snake.svg)
-
-###
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/oaitbenh-21?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)###
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
