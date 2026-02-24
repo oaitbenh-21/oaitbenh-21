@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Omar
 
-Systems-oriented full-stack developer with a strong interest in **Linux, networking, and low-level programming**.  
+Backend & Systems developer with a strong interest in **Linux, networking, and low-level programming**.  
 I enjoy understanding how things work under the hood and building reliable, production-ready systems.
 
 🎯 **PWK (OSCP) course completed** — *coursework only, certification not obtained*.
