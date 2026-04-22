@@ -28,14 +28,14 @@ I enjoy understanding how things work under the hood and building reliable, prod
 
 - **Corewar VM (Rust)** – Virtual machine for the Corewar programming game  
 - **Corewar Disassembler (Rust)** – Bytecode analysis and reverse tooling  
-- **0-Shell (Rust)** – POSIX-like shell with pipes and redirects  
-- **Social Network (Go / Next.js)** – Auth, WebSockets, REST API  
-- **Net-Cat (Go)** – Concurrent TCP chat server  
-- **NandGame** – CPU built from logic gates
+- **0-Shell (Rust)** – POSIX-like shell with pipes and redirects
+- **NandGame** – From NAND gates to a working computer
+- **localserver (Rust)** – HTTP/1.1 server with non-blocking I/O, CGI, and high availability.  
+- **Social Network (Go / Next.js)** – Auth, WebSockets, REST API
 
 ---
 
 ## 📫 Contact
 
 - **Email:** 0xmrrandom@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/omar-ait-benhammou-77332a354
+- **LinkedIn:** https://www.linkedin.com/in/oaitbenh
