@@ -37,5 +37,5 @@ I enjoy understanding how things work under the hood and building reliable, prod
 
 ## 📫 Contact
 
-- **Email:** 0xmrrandom@gmail.com  
+- **Email:** 0xoabh@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/oaitbenh
